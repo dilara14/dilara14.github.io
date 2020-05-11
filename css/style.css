@@ -2693,13 +2693,17 @@ a.logo:hover{
 .bg-red{ background-color: #e13939 !important; }
 
 .section-title {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     font-size: 18px;
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 0.5em;
     line-height: 1.4;
+    border: 5px solid #E2EAF3;
+   opacity: 1;
+   padding: 5px;
+   padding-left: 10px;
 }
 .section-more{
     margin-top: 7px;
