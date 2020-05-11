@@ -3794,9 +3794,10 @@ a.logo:hover{
 .post-prev-img{
     margin-bottom: 23px;
     position: relative;
-    /* filter: invert(94%) sepia(6%) saturate(517%) hue-rotate(183deg) brightness(100%) contrast(91%); */
-    -webkit-filter: url(#monochrome);
-     filter:  url(#monochrome);
+    /* filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); */
+    /* -webkit-filter: url(#monochrome);
+     filter:  url(#monochrome); */
 }
 .post-prev-img a{
     -webkit-transition: all 0.2s cubic-bezier(0.300, 0.100, 0.580, 1.000);
@@ -3806,7 +3807,7 @@ a.logo:hover{
     transition: all 0.2s cubic-bezier(0.300, 0.100, 0.580, 1.000);
 }
 .post-prev-img a:hover{
-    opacity: .85;
+    opacity: .1;
 }
 .post-prev-img img{
     width: 100%;
