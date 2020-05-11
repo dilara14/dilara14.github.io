@@ -1177,7 +1177,6 @@ a.bg-video-button-muted{
  * Headings styles
  */
 
-
 .hs-wrap{
     max-width: 570px;
     margin: 0 auto;
@@ -1240,7 +1239,7 @@ a.bg-video-button-muted{
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: rgba(255,255,255, .85);
+    /* color: rgba(255,255,255, .85); */
 }
 .hs-line-5{
     margin-top: 0;
