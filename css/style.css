@@ -2383,7 +2383,7 @@ a.logo:hover{
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 
-    padding: 50px 0;
+    padding: 80px 0;
 }
 .small-section{
     padding: 70px 0;
@@ -3666,6 +3666,13 @@ a.logo:hover{
 .work-detail p:last-child{
     margin-bottom: 0;
 }
+#project-det{
+   padding: 0px;
+}
+#project-det-inside{
+   padding: 15px;
+   border: 3px solid #E2EAF3;
+}
 .work-full-detail{
     font-size: 11px;
     color: #777;
@@ -3675,10 +3682,6 @@ a.logo:hover{
 .work-full-detail p{
     padding: 4px 0;
     margin: 0;
-    border-top: 1px solid rgba(0,0,0, .05);
-}
-.work-full-detail p:last-child{
-    border-bottom: 1px solid rgba(0,0,0, .05);
 }
 .work-full-detail p strong{
     width: 100px;
