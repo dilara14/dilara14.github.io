@@ -725,6 +725,9 @@ Primary use: MultiPurpose Template
         font-size: 12px;
     }
 
+    .works-filter{
+        margin-bottom: 30px;
+    }
 
     .works-filter a{
         width: 100%;
