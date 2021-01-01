@@ -663,7 +663,7 @@ Primary use: MultiPurpose Template
     }
 
     .owl-prev, .owl-next {
-        display: none;
+        display: block;
     }
     .owl-page {
         padding-left: 8px;
